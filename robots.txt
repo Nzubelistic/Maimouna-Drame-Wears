@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maimouna-drame-wears.pages.dev/sitemap.xml
